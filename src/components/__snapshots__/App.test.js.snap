@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component matches snapshot 1`] = `
+<BrowserRouter>
+  <Header />
+  <Switch>
+    <Route
+      component={[Function]}
+      path="/red"
+    />
+    <Route
+      component={[Function]}
+      path="/yellow"
+    />
+    <Route
+      component={[Function]}
+      path="/blue"
+    />
+  </Switch>
+</BrowserRouter>
+`;
