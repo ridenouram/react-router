@@ -6,15 +6,7 @@ exports[`App component matches snapshot 1`] = `
   <Switch>
     <Route
       component={[Function]}
-      path="/red"
-    />
-    <Route
-      component={[Function]}
-      path="/yellow"
-    />
-    <Route
-      component={[Function]}
-      path="/blue"
+      path="/color/:id"
     />
   </Switch>
 </BrowserRouter>
